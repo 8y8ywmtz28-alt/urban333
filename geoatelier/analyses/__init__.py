@@ -1,0 +1,1 @@
+"""Analysis templates for GeoAtelier."""
