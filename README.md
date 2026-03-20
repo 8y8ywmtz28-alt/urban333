@@ -11,7 +11,7 @@
    - 本地导入：GeoTIFF、GeoJSON、Shapefile/ZIP、CSV、Excel。
    - 在线数据：URL 下载、Nominatim 地理编码、Overpass OSM 抓取。
    - 数据清单：自动识别类型、记录摘要（CRS、范围、波段、字段等）、提示可用模板。
-2. **分析模板**
+2. 分析模板
    - 土地变化检测（NDVI / 普通差分）
    - 生态-旅游耦合分析
    - 适宜性评价
